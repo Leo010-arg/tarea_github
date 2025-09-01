@@ -1,0 +1,26 @@
+
+#esqueleto{
+    width: 40%;
+    height: 100px;
+    background-color: rgb(43, 214, 226);
+    padding-left: 60px;
+}
+
+#texto {
+    width: 40%;
+    height: 400px;
+    background-color: white;
+    padding-left: 60px;
+    padding-top: 60px;
+}
+
+img {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    bottom: 70%;
+    border-radius: 100%;
+    left: 50px;
+}
+
+
